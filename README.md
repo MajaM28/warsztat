@@ -36,5 +36,7 @@ print suma
 ### Tutaj bedzie kod zagnieżdżony w tekście:
 Przykład kodu w tekście to na przykład `print("Hello world!")`
 
+![zdjecieman.jpeg](zdjecieman.jpeg)
+
 
 
